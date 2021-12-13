@@ -68,4 +68,4 @@ section: photos
     flopper.png                     : 1 : Chunky fluffer.
     trollface.png                   : 0 : I'm afraid.
     amongus.png                     : 0 : Sus.
-    pan Bartek.png                  : 1 : Our favourite computer science teacher. Our favourite computer science teacher. Our favourite computer science teacher.
+    
