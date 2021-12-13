@@ -1,0 +1,71 @@
+section: brushes
+    dot.png                         : 0 : One pixel dot.
+    circle.png                      : 0 : Small circle.
+    circle7x7.png                   : 0 : Medium circle.
+    circle9x9.png                   : 0 : Big circle.
+    circle13x13.png                 : 0 : Biggg circle.
+
+section: still lifes
+    block.png                       : 0 : 2x2 square.
+    bee-hive.png                    : 0 : I thought it's called pond.
+    loaf.png                        : 0 : It's actually a kidney.
+    boat.png                        : 0 : Don't let them lie to you, it doesn't swim.
+    tub.png                         : 0 : Tub.
+
+section: oscillators
+    blinker.png                     : 0 : Period 2 oscillator. Flips and flops.
+    toad.png                        : 0 : Period 2 oscillator. Flaps and flips.
+    beacon.png                      : 0 : Period 2 oscillator. Fleps and flyps.
+    pulsar.png                      : 0 : Period 3 oscillator. Imagine I drew it in MS Paint.
+    pentadecathlon.png              : 0 : Period 15(!) oscillator. Guess how the name originated.
+
+section: spaceships
+    glider.png                      : 0 : The icon. Smallest ship possible.
+    lightweight spaceship.png       : 0 : Slightly bigger ship.
+    middleweight spaceship.png      : 0 : Even bigger ship.
+    heavyweight spaceship.png       : 0 : That's heavy.
+    hammerhead.png                  : 0 : Looks dope.
+    weekender.png                   : 0 : Looks like it's crawling.
+    copperhead.png                  : 0 : Looks like it's smiling ironically.
+
+section: tagalongs
+    single weekender tagalong.png   : 0 : It's made of one weekender and a tagalong structure. Looks like a spinny frog.
+    double weekender tagalong.png   : 0 : It's made of two weekenders and a tagalong structure.
+    still life tagalong.png         : 0 : It's made of two middleweight ships and a tagalong structure.
+    canada goose.png                : 0 : Glider looks like a head of a goose which flaps its wings and flips its feet.
+
+section: pure glider generators
+    4-8-12 diamond.png              : 0 : It turns into 4 gliders.
+    bi-loaf.png                     : 0 : Turns into 2 gliders.
+    bi-clock.png                    : 0 : Turns into 2 gliders.
+    undecomino.png                  : 0 : Evolves into a single glider.
+    pure glider gen.png             : 0 : Turns into 4 gliders.
+
+section: guns
+    gosper glider gun.png           : 0 : Shoots gliders periodically.
+    simkin glider gun.png           : 0 : Shoots gliders in two directions.
+    simkin glider gun (plugged).png : 0 : Just as usual, but one of the channels got plugged.
+    LWSS gun.png                    : 0 : Shoots light weight spaceships.
+    MWSS gun.png                    : 0 : Shoots middle weight spaceships.
+
+section: methuselahs
+    R-pentomino.png                 : 0 : First discovered methuselah.
+    diehard.png                     : 0 : Takes 130 generations to *disappear*.
+    acorn.png                       : 0 : It actually lasts for 5206 generations to produce 633 cells (including 13 gliders).
+
+section: infinite growth
+    infinite growth noname.png      : 0 : It moves leaving 2x2 blocks.
+    infinite growth one cell.png    : 0 : It splits into two colony-like structures that travel leaving dots behind.
+    spacefiller.png                 : 0 : It fills the entire space with stripes.
+    breeder.png                     : 0 : It is a ship that makes glider guns.
+    rake.png                        : 0 : It's a ship that shoots gliders.
+
+section: puffers
+    puffer1.png                     : 0 : It has period of 128. It's the first puffer to be discovered.
+    puffer2.png                     : 0 : It has period of 140. It's the second discovered puffer.
+
+section: photos
+    flopper.png                     : 1 : Chunky fluffer.
+    trollface.png                   : 0 : I'm afraid.
+    amongus.png                     : 0 : Sus.
+    pan Bartek.png                  : 1 : Our favourite computer science teacher. Our favourite computer science teacher. Our favourite computer science teacher.
